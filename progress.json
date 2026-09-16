@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T06:27:12.871Z",
+  "generated_at": "2026-09-16T06:42:01.649Z",
   "items": {
     "problem:121": {
       "kind": "problem",
@@ -50,6 +50,19 @@
       "path": "problems/0005-scalar-multiplication-of-a-matrix",
       "first_solved_at": "2026-09-16T06:27:10.483Z",
       "last_pushed_at": "2026-09-16T06:27:10.483Z",
+      "language": "python",
+      "lines": 14
+    },
+    "problem:9": {
+      "kind": "problem",
+      "id": "9",
+      "title": "Matrix times Matrix ",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/9",
+      "path": "problems/0009-matrix-times-matrix",
+      "first_solved_at": "2026-09-16T06:41:58.963Z",
+      "last_pushed_at": "2026-09-16T06:41:58.963Z",
       "language": "python",
       "lines": 14
     }
