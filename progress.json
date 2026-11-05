@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T09:41:27.994Z",
+  "generated_at": "2026-11-05T10:38:04.962Z",
   "items": {
     "problem:121": {
       "kind": "problem",
@@ -472,6 +472,19 @@
       "path": "math/0040-logistic-regression-as-maximum-likelihood",
       "first_solved_at": "2026-11-05T09:41:26.572Z",
       "last_pushed_at": "2026-11-05T09:41:26.572Z"
+    },
+    "problem:104": {
+      "kind": "problem",
+      "id": "104",
+      "title": "Binary Classification with Logistic Regression",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/104",
+      "path": "problems/0104-binary-classification-with-logistic-regression",
+      "first_solved_at": "2026-11-05T10:38:04.255Z",
+      "last_pushed_at": "2026-11-05T10:38:04.255Z",
+      "language": "python",
+      "lines": 21
     }
   }
 }
