@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**46** solved · 35 problems · 0 labs · 11 math
+**47** solved · 36 problems · 0 labs · 11 math
 
 ![Coverage](./coverage.svg)
 
@@ -45,6 +45,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Dummy Regressor Baseline](https://www.deep-ml.com/problems/848) | medium | 2026-09-29 | [solution](problems/0848-dummy-regressor-baseline) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-09-16 | [solution](problems/0009-matrix-times-matrix) |
 | [Mini-Batch Gradient Descent Step for Linear Regression](https://www.deep-ml.com/problems/803) | medium | 2026-11-04 | [solution](problems/0803-mini-batch-gradient-descent-step-for-linear-regression) |
+| [Precision and Recall at Threshold](https://www.deep-ml.com/problems/849) | medium | 2026-11-16 | [solution](problems/0849-precision-and-recall-at-threshold) |
 | [StandardScaler Fit and Transform](https://www.deep-ml.com/problems/842) | medium | 2026-09-28 | [solution](problems/0842-standardscaler-fit-and-transform) |
 | [Train Logistic Regression with Gradient Descent](https://www.deep-ml.com/problems/106) | hard | 2026-11-06 | [solution](problems/0106-train-logistic-regression-with-gradient-descent) |
 
